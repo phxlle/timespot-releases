@@ -4,5 +4,15 @@
     <title>TimeSpot</title>
     <description>Update feed for TimeSpot for macOS</description>
     <language>en</language>
+    <item>
+      <title>1.0.0</title>
+      <pubDate>Wed, 19 Aug 2026 13:05:06 +0000</pubDate>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/phxlle/timespot-releases/releases/download/v1.0.0+8/TimeSpot.dmg"
+                 sparkle:version="8"
+                 sparkle:shortVersionString="1.0.0"
+                 sparkle:edSignature="BbXTKDNqwkRfXhpm8hQWpqBtmqPM5z/vi36GVtvBt+bxi5tQf4OJgfbfHhuZMhvmHg1zgnZeaZk3zW7r2cf/Dg==" length="41160839"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>

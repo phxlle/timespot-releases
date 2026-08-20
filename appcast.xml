@@ -6,6 +6,16 @@
     <language>en</language>
     <item>
       <title>1.0.0</title>
+      <pubDate>Thu, 20 Aug 2026 17:19:58 +0000</pubDate>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/phxlle/timespot-releases/releases/download/v1.0.0+19/TimeSpot.dmg"
+                 sparkle:version="19"
+                 sparkle:shortVersionString="1.0.0"
+                 sparkle:edSignature="34gvbQTHo0LT3iAZMJbGAWLVjGWqGika9GOI4jHNugFoZWt6ywejr0WrTSupEASHJZtufQvZgxr7c+ZJNpvGDw==" length="43065352"
+                 type="application/octet-stream" />
+    </item>
+    <item>
+      <title>1.0.0</title>
       <pubDate>Thu, 20 Aug 2026 17:00:17 +0000</pubDate>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/phxlle/timespot-releases/releases/download/v1.0.0+17/TimeSpot.dmg"
